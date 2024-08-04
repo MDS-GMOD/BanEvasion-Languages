@@ -6,6 +6,9 @@
 		"Title": "Modules",
 		"Subtitle": "Manage Ban Evasion modules."
 	},
+	"errors": {
+		"Detection": "Player %s is Ban Evading, [Punishment %s]"
+	},
 	"Buttons": {
 		"Kick": "Kick",
 		"Ban": "Ban",
