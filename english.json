@@ -1,1 +1,140 @@
-
+{
+	"mysql_closed": "[BanEvasion] => MySQL connection closed.",
+	"mysql1": "Connection to an external database.",
+	"badsteamid": "[BanEvasion] => Invalid SteamID",
+	"Modules": {
+		"Title": "Modules",
+		"Subtitle": "Manage Ban Evasion modules."
+	},
+	"mysqlwizard": {
+		"disconnect1": "Disconnect from the database.",
+		"disconnect": "Disconnect",
+		"connect1": "Connect to the database.",
+		"connect": "Connect",
+		"password1": "Insert the password of the database.",
+		"port1": "Insert the port of the database.",
+		"password": "Password",
+		"database1": "Insert the name of the database.",
+		"host": "Host",
+		"database": "Database",
+		"title": "MySQL Wizard",
+		"username1": "Insert the username of the database.",
+		"host1": "Insert the host of the database.",
+		"username": "Username",
+		"subtitle": "Connect to an external database.",
+		"port": "Port"
+	},
+	"whitelist": {
+		"Title": "Detection Whitelist",
+		"Remove": "Remove",
+		"SteamID": "SteamID",
+		"Add": "Add",
+		"SteamID1": "Insert the SteamID of the player.",
+		"Description": "Whitelist players from detections."
+	},
+	"kick_reason": "Kick Reason",
+	"menu_command1": "The command to open the menu.",
+	"discord_relay_webhook": "Discord Relay Webhook",
+	"settings": {
+		"Detection Whitelist": "Detection Whitelist",
+		"Menu Command": "Menu Command",
+		"Global Banlist1": "Uploads all bans done by banevasion to our global list!",
+		"Menu Command1": "The command to open the menu.",
+		"MySQL1": "Connect to an external database.",
+		"Global API1": "Uploads banevasion data to our global API.",
+		"MySQL": "MySQL",
+		"Discord Relay": "Discord Relay",
+		"Subtitle": "Configure Ban Evasion to your liking.",
+		"Ban Reason1": "Insert the reason for the ban.",
+		"Detection Whitelist1": "Whitelist players from detections.",
+		"Global Banlist": "Global Banlist",
+		"Kick Reason": "Kick Reason",
+		"Ban Reason": "Ban Reason",
+		"Discord Relay Webhook1": "Webhook to relay detections to.",
+		"Discord Relay Webhook": "Discord Relay Webhook",
+		"Kick Reason1": "Insert the reason for the kick.",
+		"Title": "Settings",
+		"Global API": "Global API",
+		"Discord Relay1": "Relay detections to your discord."
+	},
+	"menu_command": "Menu Command",
+	"ban_reason1": "Insert the reason for the ban.",
+	"logs": {
+		"Date": "Date",
+		"Search": "Search SteamID",
+		"Title": "Logs",
+		"Previous": "Previous",
+		"Page": "Page",
+		"User": "User",
+		"Next": "Next",
+		"Method": "Method",
+		"Subtitle": "View all detections made by Ban Evasion."
+	},
+	"methods": {
+		"method_7": {
+			"Name": "Method #7",
+			"Description": "Fingerprinting method."
+		},
+		"method_4": {
+			"Name": "Method #4",
+			"Description": "Fingerprinting method."
+		},
+		"method_1": {
+			"Name": "VPN/Proxy Detection",
+			"Description": "This method is used to detect if a player is using a VPN or Proxy"
+		},
+		"method_9": {
+			"Name": "Method #9",
+			"Description": "A fingerprinting method."
+		},
+		"method_6": {
+			"Name": "IP address matching",
+			"Description": "Automatically check players for matching IP addresses"
+		},
+		"method_3": {
+			"Name": "Method #3",
+			"Description": "This is the eprotect method."
+		},
+		"method_8": {
+			"Name": "Method #8",
+			"Description": "Fingerprinting method."
+		},
+		"method_5": {
+			"Name": "Method #5",
+			"Description": "A fingerprinting method."
+		},
+		"method_11": {
+			"Name": "Familyshare Detection",
+			"Description": "This detects if somebody is family sharing the game with a banned user!"
+		},
+		"method_2": {
+			"Name": "Geforce Now Detection",
+			"Description": "This method is used to detect if a player is using a Geforce Now!"
+		},
+		"method_10": {
+			"Name": "Method #10",
+			"Description": "A fingerprinting method."
+		}
+	},
+	"global_api1": "Uploads banevasion data to our global API.",
+	"discord_relay_webhook1": "Webhook to relay detections to.",
+	"global_api": "Global API",
+	"mysql": "MySQL",
+	"fingerprint": "Fingerprinting method.",
+	"home": {
+		"Title": "Home",
+		"Total Detections": "Total Detections",
+		"Most common method": "Most common method",
+		"Addon Owner": "Addon Owner",
+		"Subtitle": "Welcome to Ban Evasion!"
+	},
+	"banevasion": "Ban Evasion",
+	"mysql_error": "[BanEvasion] => MySQL connection failed.",
+	"ban_reason": "Ban Reason",
+	"sidebar": {
+		"Logs": "Logs",
+		"Home": "Home",
+		"Modules": "Modules",
+		"Settings": "Settings"
+	}
+}
