@@ -6,6 +6,12 @@
 		"Title": "Modules",
 		"Subtitle": "Manage Ban Evasion modules."
 	},
+	"Buttons": {
+		"Kick": "Kick",
+		"Ban": "Ban",
+		"Log Only": "Log Only",
+		"Disabled": "Disabled"
+	},
 	"mysqlwizard": {
 		"disconnect1": "Disconnect from the database.",
 		"disconnect": "Disconnect",
