@@ -71,14 +71,16 @@
 	"ban_reason1": "Insert the reason for the ban.",
 	"logs": {
 		"Date": "Date",
-		"Search": "Search SteamID",
-		"Title": "Logs",
+		"search": "Search SteamID",
+		"title": "Logs",
 		"Previous": "Previous",
 		"Page": "Page",
 		"User": "User",
 		"Next": "Next",
-		"Method": "Method",
-		"Subtitle": "View all detections made by Ban Evasion."
+		"timestamp": "Timestamp",
+		"subtitle": "View logs.",
+		"Actions:": "Actions",
+		"CopySid": "Copy SteamID64",
 	},
 	"methods": {
 		"method_7": {
