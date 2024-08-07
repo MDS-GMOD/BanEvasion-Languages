@@ -80,7 +80,7 @@
 		"timestamp": "Timestamp",
 		"subtitle": "View logs.",
 		"Actions:": "Actions",
-		"CopySid": "Copy SteamID64",
+		"CopySid": "Copy SteamID64"
 	},
 	"methods": {
 		"method_7": {
