@@ -1,0 +1,153 @@
+{
+	"mysql_closed": "[BanEvasion] => MySQL Verbindung geschlossen.",
+	"mysql1": "Verbindung mit einer externen Datenbank.",
+	"badsteamid": "[BanEvasion] => ungültige SteamID",
+	"Modules": {
+		"Title": "Module",
+		"Subtitle": "Verwalte BanEvasion Module."
+	},
+	"errors": {
+		"Detection": "Der Spieler %s umgeht seine Verbannung, [Strafe: %s]"
+	},
+	"Buttons": {
+		"Kick": "Kicken",
+		"Ban": "Verbannen",
+		"Log Only": "Nur loggen",
+		"Disabled": "Deaktiviert"
+	},
+	"mysqlwizard": {
+		"disconnect1": "Trenne die Verbindung zur Datenbank.",
+		"disconnect": "Verbindung trennen",
+		"connect1": "Verbinde die Datenbank.",
+		"connect": "Verbinden",
+		"password1": "Gebe das Passwort der Datenbank ein.",
+		"port1": "Gebe den Port der Datenbank ein.",
+		"password": "Passwort",
+		"database1": "Gebe den Namen der Datenbank ein.",
+		"host": "Host",
+		"database": "Datenbank",
+		"subtitle1": "MySQL",
+		"title": "MySQL Datenbank Assistent",
+		"username1": "Gebe den Benutzernamen der Datenbank ein.",
+		"host1": "Gebe den Host der Datenbank ein.",
+		"username": "Benutzername",
+		"subtitle": "Verbindung mit einer externen Datenbank.",
+		"port": "Port"
+	},
+	"whitelist": {
+		"Title": "Whitelist",
+		"Remove": "Entfernen",
+		"SteamID": "SteamID",
+		"Add": "Hinzufügen",
+		"SteamID1": "Füge die SteamID des Spielers ein.",
+		"Description": "Spieler von Detections ausschließen"
+	},
+	"kick_reason": "Grund",
+	"menu_command1": "Der Befehl zum Öffnen des Menüs.",
+	"discord_relay_webhook": "Discord Relay Webhook",
+	"settings": {
+		"Detection Whitelist": "Whitelist",
+		"Menu Command": "Command",
+		"Global Banlist1": "Lädt alle von BanEvasion durchgeführten Bans in unsere globale Liste hoch!",
+		"Menu Command1": "Der Befehl zum Öffnen des Menüs.",
+		"MySQL1": "Verbindung mit einer externen Datenbank.",
+		"Global API1": "Hochladen von BanEvasions Daten in unsere globale API.",
+		"MySQL": "MySQL",
+		"Discord Relay": "Discord Relay",
+		"Subtitle": "Konfiguriere BanEvasion nach deinen Wünschen.",
+		"Ban Reason1": "Gebe den Grund für die Verbannung ein.",
+		"Detection Whitelist1": "Spieler von Detections ausschließen.",
+		"Global Banlist": "Globale Banliste",
+		"Kick Reason": "Kickgrund",
+		"Ban Reason": "Verbannungsgrund",
+		"Discord Relay Webhook1": "Webhook zur Weiterleitung von Detections.",
+		"Discord Relay Webhook": "Discord Relay Webhook",
+		"Kick Reason1": "Gebe einen Grund für den Kick ein.",
+		"Title": "Einstellungen",
+		"Global API": "Globale API",
+		"Discord Relay1": "Leite Detections an deinen Discord weiter."
+	},
+	"menu_command": "Command",
+	"ban_reason1": "Gebe den Grund für die Verbannung ein.",
+	"logs": {
+		"Date": "Datum",
+		"search": "SteamID suchen",
+		"title": "Logs",
+		"Previous": "Vorherige",
+		"Page": "Seite",
+		"steamid": "SteamID",
+		"User": "Benutzer",
+		"Next": "Nächste",
+		"timestamp": "Zeitstempel",
+		"subtitle": "Logs ansehen.",
+		"Actions": "Aktionen",
+		"CopySid": "SteamID64 kopieren"
+	},
+	"methods": {
+		"method_7": {
+			"Name": "Methode #7",
+			"Description": "Fingerabdruck-Methode."
+		},
+		"method_4": {
+			"Name": "Methode #4",
+			"Description": "Fingerabdruck-Methode."
+		},
+		"method_1": {
+			"Name": "VPN/Proxy Detection",
+			"Description": "Diese Methode wird verwendet, um zu erkennen, ob ein Spieler ein VPN oder einen Proxy verwendet."
+		},
+		"method_9": {
+			"Name": "Methode #9",
+			"Description": "Eine Fingerabdruck-Methode."
+		},
+		"method_6": {
+			"Name": "IP-Adressen-Abgleich",
+			"Description": "Automatische Überprüfung der Spieler auf übereinstimmende IP-Adressen."
+		},
+		"method_3": {
+			"Name": "Methode #3",
+			"Description": "Das ist die EProtect-Methode."
+		},
+		"method_8": {
+			"Name": "Methode #8",
+			"Description": "Eine Fingerabdruck-Methode."
+		},
+		"method_5": {
+			"Name": "Methode #5",
+			"Description": "Eine Fingerabdruck-Methode."
+		},
+		"method_11": {
+			"Name": "Familyshare Detection",
+			"Description": "Damit wird erkannt, ob jemand das Spiel mit einem verbannten Benutzer gemeinsam nutzt!"
+		},
+		"method_2": {
+			"Name": "Geforce Now Detection",
+			"Description": "Diese Methode wird verwendet, um zu erkennen, ob ein Spieler Geforce Now zur Banumgehung nutzt!"
+		},
+		"method_10": {
+			"Name": "Methode #10",
+			"Description": "Eine Fingerabdruck-Methode."
+		}
+	},
+	"global_api1": "Lädt BanEvasions Daten in unsere globale API hoch.",
+	"discord_relay_webhook1": "Webhook zur Weiterleitung von Detections.",
+	"global_api": "Globale API",
+	"mysql": "MySQL",
+	"fingerprint": "Fingerabdruck-Methode.",
+	"home": {
+		"Title": "Startseite",
+		"Total Detections": "Gesamte Detections",
+		"Most common method": "Häufigste Methode",
+		"Addon Owner": "Addon Besitzer",
+		"Subtitle": "Willkommen zu BanEvasion!"
+	},
+	"banevasion": "BanEvasion",
+	"mysql_error": "[BanEvasion] => MySQL Verbindung fehlgeschlagen.",
+	"ban_reason": "Verbannungsgrund",
+	"sidebar": {
+		"Logs": "Logs",
+		"Home": "Startseite",
+		"Modules": "Module",
+		"Settings": "Einstellungen"
+	}
+}
