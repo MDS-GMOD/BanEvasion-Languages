@@ -1,0 +1,153 @@
+{
+	"mysql_closed": "[BanEvasion] => MySQL bağlantısı kapatıldı.",
+	"mysql1": "Harici bir veritabanına bağlantı.",
+	"badsteamid": "[BanEvasion] => Geçersiz SteamID",
+	"Modules": {
+		"Title": "Modüller",
+		"Subtitle": "Ban Evasion modüllerini yönetin."
+	},
+	"errors": {
+		"Detection": "Oyuncu %s ban atlatıyor, [Punishment %s]"
+	},
+	"Buttons": {
+		"Kick": "At",
+		"Ban": "Yasakla",
+		"Log Only": "Sadece Günlükle",
+		"Disabled": "Devre Dışı"
+	},
+	"mysqlwizard": {
+		"disconnect1": "Veritabanından bağlantıyı kes.",
+		"disconnect": "Bağlantıyı Kes",
+		"connect1": "Veritabanına bağlan.",
+		"connect": "Bağlan",
+		"password1": "Veritabanı şifresini girin.",
+		"port1": "Veritabanı portunu girin.",
+		"password": "Şifre",
+		"database1": "Veritabanı adını girin.",
+		"host": "Sunucu",
+		"database": "Veritabanı",
+		"subtitle1": "MySQL",
+		"title": "MySQL Veritabanı Sihirbazı",
+		"username1": "Veritabanı kullanıcı adını girin.",
+		"host1": "Veritabanı sunucusunu girin.",
+		"username": "Kullanıcı Adı",
+		"subtitle": "Harici bir veritabanına bağlan.",
+		"port": "Port"
+	},
+	"whitelist": {
+		"Title": "Tespit Beyaz Listesi",
+		"Remove": "Kaldır",
+		"SteamID": "SteamID",
+		"Add": "Ekle",
+		"SteamID1": "Oyuncunun SteamID'sini girin.",
+		"Description": "Oyuncuları tespitlerden beyaz listeye ekleyin."
+	},
+	"kick_reason": "Atma Sebebi",
+	"menu_command1": "Menüyü açma komutu.",
+	"discord_relay_webhook": "Discord Aktarım Webhook'u",
+	"settings": {
+		"Detection Whitelist": "Tespit Beyaz Listesi",
+		"Menu Command": "Menü Komutu",
+		"Global Banlist1": "Ban evasion tarafından yapılan tüm yasakları global listemize yükleyin!",
+		"Menu Command1": "Menüyü açma komutu.",
+		"MySQL1": "Harici bir veritabanına bağlan.",
+		"Global API1": "Ban evasion verilerini global API'mize yükler.",
+		"MySQL": "MySQL",
+		"Discord Relay": "Discord Aktarımı",
+		"Subtitle": "Ban Evasion'ı istediğiniz gibi yapılandırın.",
+		"Ban Reason1": "Yasaklama sebebini girin.",
+		"Detection Whitelist1": "Oyuncuları tespitlerden beyaz listeye ekleyin.",
+		"Global Banlist": "Global Yasak Listesi",
+		"Kick Reason": "Atma Sebebi",
+		"Ban Reason": "Yasaklama Sebebi",
+		"Discord Relay Webhook1": "Tespitleri aktarmak için webhook.",
+		"Discord Relay Webhook": "Discord Aktarım Webhook'u",
+		"Kick Reason1": "Atma sebebini girin.",
+		"Title": "Ayarlar",
+		"Global API": "Global API",
+		"Discord Relay1": "Tespitleri discord'unuza aktarın."
+	},
+	"menu_command": "Menü Komutu",
+	"ban_reason1": "Yasaklama sebebini girin.",
+	"logs": {
+		"Date": "Tarih",
+		"search": "SteamID Ara",
+		"title": "Günlükler",
+		"Previous": "Önceki",
+		"Page": "Sayfa",
+		"steamid": "SteamID",
+		"User": "Kullanıcı",
+		"Next": "Sonraki",
+		"timestamp": "Zaman Damgası",
+		"subtitle": "Günlükleri görüntüle.",
+		"Actions": "İşlemler",
+		"CopySid": "SteamID64'ü Kopyala"
+	},
+	"methods": {
+		"method_7": {
+			"Name": "Yöntem #7",
+			"Description": "Parmak izi yöntemi."
+		},
+		"method_4": {
+			"Name": "Yöntem #4",
+			"Description": "Parmak izi yöntemi."
+		},
+		"method_1": {
+			"Name": "VPN/Proxy Tespiti",
+			"Description": "Bu yöntem, bir oyuncunun VPN veya Proxy kullanıp kullanmadığını tespit etmek için kullanılır"
+		},
+		"method_9": {
+			"Name": "Yöntem #9",
+			"Description": "Bir parmak izi yöntemi."
+		},
+		"method_6": {
+			"Name": "IP adresi eşleşmesi",
+			"Description": "Oyuncuların IP adresleri eşleşip eşleşmediğini otomatik olarak kontrol edin"
+		},
+		"method_3": {
+			"Name": "Yöntem #3",
+			"Description": "Bu, eprotect yöntemidir."
+		},
+		"method_8": {
+			"Name": "Yöntem #8",
+			"Description": "Parmak izi yöntemi."
+		},
+		"method_5": {
+			"Name": "Yöntem #5",
+			"Description": "Bir parmak izi yöntemi."
+		},
+		"method_11": {
+			"Name": "Familyshare Tespiti",
+			"Description": "Bu, birinin yasaklanmış bir kullanıcıyla oyunu aile paylaşımı yapıp yapmadığını tespit eder!"
+		},
+		"method_2": {
+			"Name": "Geforce Now Tespiti",
+			"Description": "Bu yöntem, bir oyuncunun Geforce Now kullanıp kullanmadığını tespit etmek için kullanılır!"
+		},
+		"method_10": {
+			"Name": "Yöntem #10",
+			"Description": "Bir parmak izi yöntemi."
+		}
+	},
+	"global_api1": "Ban evasion verilerini global API'mize yükler.",
+	"discord_relay_webhook1": "Tespitleri aktarmak için webhook.",
+	"global_api": "Global API",
+	"mysql": "MySQL",
+	"fingerprint": "Parmak izi yöntemi.",
+	"home": {
+		"Title": "Ana Sayfa",
+		"Total Detections": "Toplam Tespitler",
+		"Most common method": "En yaygın yöntem",
+		"Addon Owner": "Eklenti Sahibi",
+		"Subtitle": "Ban Evasion'a hoş geldiniz!"
+	},
+	"banevasion": "Ban Evasion",
+	"mysql_error": "[BanEvasion] => MySQL bağlantısı başarısız oldu.",
+	"ban_reason": "Yasaklama Sebebi",
+	"sidebar": {
+		"Logs": "Günlükler",
+		"Home": "Ana Sayfa",
+		"Modules": "Modüller",
+		"Settings": "Ayarlar"
+	}
+}
