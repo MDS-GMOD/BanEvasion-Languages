@@ -116,6 +116,18 @@
 			"Name": "Méthode n°5",
 			"Description": "Une méthode d'empreinte digitale."
 		},
+		"method_12": {
+			"Name": "Méthode n°12",
+			"Description": "Méthode d'empreinte digitale."
+		},
+		"method_13": {
+			"Name": "Méthode n°13",
+			"Description": "Méthode d'empreinte digitale."
+		},
+		"method_14": {
+			"Name": "Méthode n°14",
+			"Description": "Méthode d'empreinte digitale."
+		},
 		"method_11": {
 			"Name": "Détection Familyshare",
 			"Description": "Cela détecte si quelqu'un partage le jeu avec un utilisateur banni!"
