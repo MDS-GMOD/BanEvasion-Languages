@@ -116,6 +116,18 @@
 			"Name": "Methode #5",
 			"Description": "Eine Fingerabdruck-Methode."
 		},
+		"method_12": {
+			"Name": "Methode #12",
+			"Description": "Eine Fingerabdruck-Methode."
+		},
+		"method_13": {
+			"Name": "Methode #13",
+			"Description": "Eine Fingerabdruck-Methode."
+		},
+		"method_14": {
+			"Name": "Methode #14",
+			"Description": "Eine Fingerabdruck-Methode."
+		},
 		"method_11": {
 			"Name": "Familyshare Detection",
 			"Description": "Damit wird erkannt, ob jemand das Spiel mit einem verbannten Benutzer gemeinsam nutzt!"
