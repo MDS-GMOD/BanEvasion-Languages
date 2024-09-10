@@ -1,0 +1,153 @@
+{
+	"mysql_closed": "[BanEvasion] => Connexion MySQL fermée.",
+	"mysql1": "Connexion à une base de données externe.",
+	"badsteamid": "[BanEvasion] => SteamID invalide",
+	"Modules": {
+		"Title": "Modules",
+		"Subtitle": "Gérer les modules de contournement de bannissement."
+	},
+	"errors": {
+		"Detection": "Le joueur %s contourne le bannissement, [Sanction %s]"
+	},
+	"Buttons": {
+		"Kick": "Expulser",
+		"Ban": "Bannir",
+		"Log Only": "Logs uniquement",
+		"Disabled": "Désactivé"
+	},
+	"mysqlwizard": {
+		"disconnect1": "Se déconnecter de la base de données.",
+		"disconnect": "Déconnecter",
+		"connect1": "Se connecter à la base de données.",
+		"connect": "Connecter",
+		"password1": "Insérer le mot de passe de la base de données.",
+		"port1": "Insérer le port de la base de données.",
+		"password": "Mot de passe",
+		"database1": "Insérer le nom de la base de données.",
+		"host": "Hôte",
+		"database": "Base de données",
+		"subtitle1": "MySQL",
+		"title": "Assistant de base de données MySQL",
+		"username1": "Insérer le nom d'utilisateur de la base de données.",
+		"host1": "Insérer l'hôte de la base de données.",
+		"username": "Nom d'utilisateur",
+		"subtitle": "Connexion à une base de données externe.",
+		"port": "Port"
+	},
+	"whitelist": {
+		"Title": "Liste blanche de détection",
+		"Remove": "Supprimer",
+		"SteamID": "SteamID",
+		"Add": "Ajouter",
+		"SteamID1": "Insérer le SteamID du joueur.",
+		"Description": "Exclure des joueurs des détections."
+	},
+	"kick_reason": "Raison de l'expulsion",
+	"menu_command1": "La commande pour ouvrir le menu.",
+	"discord_relay_webhook": "Webhook Discord",
+	"settings": {
+		"Detection Whitelist": "Liste blanche de détection",
+		"Menu Command": "Commande de menu",
+		"Global Banlist1": "Télécharge toutes les interdictions effectuées par le contournement de bannissement dans notre liste globale!",
+		"Menu Command1": "La commande pour ouvrir le menu.",
+		"MySQL1": "Connexion à une base de données externe.",
+		"Global API1": "Télécharge les données du contournement de bannissement sur notre API globale.",
+		"MySQL": "MySQL",
+		"Discord Relay": "Relais Discord",
+		"Subtitle": "Configurer le contournement de bannissement à votre convenance.",
+		"Ban Reason1": "Insérer la raison du bannissement.",
+		"Detection Whitelist1": "Exclure des joueurs des détections.",
+		"Global Banlist": "Liste globale de bannissement",
+		"Kick Reason": "Raison de l'expulsion",
+		"Ban Reason": "Raison du bannissement",
+		"Discord Relay Webhook1": "Webhook pour relayer les détections.",
+		"Discord Relay Webhook": "Webhook de relais Discord",
+		"Kick Reason1": "Insérer la raison de l'expulsion.",
+		"Title": "Paramètres",
+		"Global API": "API Globale",
+		"Discord Relay1": "Relayer les détections vers votre Discord."
+	},
+	"menu_command": "Commande de menu",
+	"ban_reason1": "Insérer la raison du bannissement.",
+	"logs": {
+		"Date": "Date",
+		"search": "Rechercher SteamID",
+		"title": "Journaux",
+		"Previous": "Précédent",
+		"Page": "Page",
+		"steamid": "SteamID",
+		"User": "Utilisateur",
+		"Next": "Suivant",
+		"timestamp": "Horodatage",
+		"subtitle": "Voir les journaux.",
+		"Actions": "Actions",
+		"CopySid": "Copier SteamID64"
+	},
+	"methods": {
+		"method_7": {
+			"Name": "Méthode n°7",
+			"Description": "Méthode d'empreinte digitale."
+		},
+		"method_4": {
+			"Name": "Méthode n°4",
+			"Description": "Méthode d'empreinte digitale."
+		},
+		"method_1": {
+			"Name": "Détection VPN/Proxy",
+			"Description": "Cette méthode est utilisée pour détecter si un joueur utilise un VPN ou un Proxy"
+		},
+		"method_9": {
+			"Name": "Méthode n°9",
+			"Description": "Une méthode d'empreinte digitale."
+		},
+		"method_6": {
+			"Name": "Correspondance d'adresse IP",
+			"Description": "Vérifier automatiquement les joueurs pour les adresses IP correspondantes"
+		},
+		"method_3": {
+			"Name": "Méthode n°3",
+			"Description": "C'est la méthode eprotect."
+		},
+		"method_8": {
+			"Name": "Méthode n°8",
+			"Description": "Méthode d'empreinte digitale."
+		},
+		"method_5": {
+			"Name": "Méthode n°5",
+			"Description": "Une méthode d'empreinte digitale."
+		},
+		"method_11": {
+			"Name": "Détection Familyshare",
+			"Description": "Cela détecte si quelqu'un partage le jeu avec un utilisateur banni!"
+		},
+		"method_2": {
+			"Name": "Détection Geforce Now",
+			"Description": "Cette méthode est utilisée pour détecter si un joueur utilise Geforce Now!"
+		},
+		"method_10": {
+			"Name": "Méthode n°10",
+			"Description": "Une méthode d'empreinte digitale."
+		}
+	},
+	"global_api1": "Télécharge les données du contournement de bannissement sur notre API globale.",
+	"discord_relay_webhook1": "Webhook pour relayer les détections.",
+	"global_api": "API Globale",
+	"mysql": "MySQL",
+	"fingerprint": "Méthode d'empreinte digitale.",
+	"home": {
+		"Title": "Accueil",
+		"Total Detections": "Total des détections",
+		"Most common method": "Méthode la plus courante",
+		"Addon Owner": "Propriétaire de l'addon",
+		"Subtitle": "Bienvenue dans BanEvasion!"
+	},
+	"banevasion": "Contournement de bannissement",
+	"mysql_error": "[BanEvasion] => Échec de la connexion MySQL.",
+	"ban_reason": "Raison du bannissement",
+	"sidebar": {
+		"Logs": "Journaux",
+		"Home": "Accueil",
+		"Modules": "Modules",
+		"Settings": "Paramètres"
+	}
+}
