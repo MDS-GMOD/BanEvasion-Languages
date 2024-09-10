@@ -116,6 +116,18 @@
 			"Name": "Yöntem #5",
 			"Description": "Bir parmak izi yöntemi."
 		},
+		"method_12": {
+			"Name": "Yöntem #12",
+			"Description": "Bir parmak izi yöntemi."
+		},
+		"method_13": {
+			"Name": "Yöntem #13",
+			"Description": "Bir parmak izi yöntemi."
+		},
+		"method_14": {
+			"Name": "Yöntem #14",
+			"Description": "Bir parmak izi yöntemi."
+		},
 		"method_11": {
 			"Name": "Familyshare Tespiti",
 			"Description": "Bu, birinin yasaklanmış bir kullanıcıyla oyunu aile paylaşımı yapıp yapmadığını tespit eder!"
