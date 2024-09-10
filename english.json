@@ -120,6 +120,18 @@
 			"Name": "Familyshare Detection",
 			"Description": "This detects if somebody is family sharing the game with a banned user!"
 		},
+		"method_12": {
+			"Name": "Method #12",
+			"Description": "Fingerprinting method."
+		},
+		"method_13": {
+			"Name": "Method #13",
+			"Description": "Fingerprinting method."
+		},
+		"method_14": {
+			"Name": "Method #14",
+			"Description": "Fingerprinting method."
+		},
 		"method_2": {
 			"Name": "Geforce Now Detection",
 			"Description": "This method is used to detect if a player is using a Geforce Now!"
