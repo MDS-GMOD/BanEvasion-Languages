@@ -1,0 +1,165 @@
+{
+	"mysql_closed": "[BanEvasion] => Połączenie z bazą MySQL zostało zamknięte.",
+	"mysql1": "Łączenie z zewnętrzną bazy danych.",
+	"badsteamid": "[BanEvasion] => Niepoprawne SteamID",
+	"Modules": {
+		"Title": "Moduły",
+		"Subtitle": "Zarządzaj modułami Ban Evasion."
+	},
+	"errors": {
+		"Detection": "Gracz %s unika Bana, [Kara %s]"
+	},
+	"Buttons": {
+		"Kick": "Wyrzuć",
+		"Ban": "Zbanuj",
+		"Log Only": "Tylko zapisz",
+		"Disabled": "Wyłączone"
+	},
+	"mysqlwizard": {
+		"disconnect1": "Rozłącz się z bazą danych.",
+		"disconnect": "Rozłącz się",
+		"connect1": "Połącz się z bazą danych.",
+		"connect": "Polącz się",
+		"password1": "Wprowadź hasło do bazy danych.",
+		"port1": "Wprowadź port do bazy danych.",
+		"password": "Hasło",
+		"database1": "Wprowadź nazwe bazy danych.",
+		"host": "Host",
+		"database": "Baza danych",
+		"subtitle1": "MySQL",
+		"title": "Kreator bazy danych MySQL",
+		"username1": "Wprowadź użytkownika bazy danych.",
+		"host1": "Wprowadź hosta bazy danych.",
+		"username": "Nazwa użytkownika",
+		"subtitle": "Połącz z zewnętrzną bazą danych.",
+		"port": "Port"
+	},
+	"whitelist": {
+		"Title": "Whitelista wykryć",
+		"Remove": "Usuń",
+		"SteamID": "SteamID",
+		"Add": "Dodaj",
+		"SteamID1": "Wprowadź SteamID gracza.",
+		"Description": "Dodaj graczy na whiteliste wykryć."
+	},
+	"kick_reason": "Powód kicka",
+	"menu_command1": "Komenda do otwarcia Menu.",
+	"discord_relay_webhook": "Discord Relay Webhook",
+	"settings": {
+		"Detection Whitelist": "Whitelista wykryć",
+		"Menu Command": "Komenda Menu",
+		"Global Banlist1": "Prześlij wszystkie bany dokonane przez banevasion do globalnej listy banów!",
+		"Menu Command1": "Komenda do otwarcia Menu.",
+		"MySQL1": "Połacz z zewnętrzną bazą danych.",
+		"Global API1": "Prześlij dane banevasion do globalnego API.",
+		"MySQL": "MySQL",
+		"Discord Relay": "Discord Relay",
+		"Subtitle": "Skonfiguruj Ban Evasion według własnych upodobań.",
+		"Ban Reason1": "Wprowadź powód bana.",
+		"Detection Whitelist1": "Dodaj graczy na whiteliste wykryć.",
+		"Global Banlist": "Globalna lista banów",
+		"Kick Reason": "Powód kicka",
+		"Ban Reason": "Powód bana",
+		"Discord Relay Webhook1": "Webhook do przekierowania",
+		"Discord Relay Webhook": "Webhook Discord",
+		"Kick Reason1": "Wprowadź powód kicka.",
+		"Title": "Ustawienia",
+		"Global API": "Globalne API",
+		"Discord Relay1": "Przekieruj wykrycia na swój discord."
+	},
+	"menu_command": "Komenda Menu",
+	"ban_reason1": "Wprowadź powód bana.",
+	"logs": {
+		"Date": "Data",
+		"search": "Wyszukaj SteamID",
+		"title": "Logi",
+		"Previous": "Poprzednie",
+		"Page": "Strona",
+		"steamid": "SteamID",
+		"User": "Użytkownik",
+		"Next": "Następne",
+		"timestamp": "Czas",
+		"subtitle": "Wyświetl logi.",
+		"Actions": "Akcje",
+		"CopySid": "Skopiuj SteamID64"
+	},
+	"methods": {
+		"method_7": {
+			"Name": "Metoda #7",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_4": {
+			"Name": "Metoda #4",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_1": {
+			"Name": "Wykrycie VPN/Proxy",
+			"Description": "Ta metoda wykrywa czy gracz używa VPN lub Proxy."
+		},
+		"method_9": {
+			"Name": "Metoda #9",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_6": {
+			"Name": "Zgodność adresu IP",
+			"Description": "Automatycznie sprawdza pasujące adresy IP."
+		},
+		"method_3": {
+			"Name": "Metoda #3",
+			"Description": "To jest metoda EProtecta."
+		},
+		"method_8": {
+			"Name": "Metoda #8",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_5": {
+			"Name": "Metoda #5",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_11": {
+			"Name": "Wykrycie Familyshare",
+			"Description": "Ta metoda wykrywa czy gracz używa Familyshare ze zbanowanym kontem."
+		},
+		"method_12": {
+			"Name": "Metoda #12",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_13": {
+			"Name": "Metoda #13",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_14": {
+			"Name": "Metoda #14",
+			"Description": "Metoda odcisku palca."
+		},
+		"method_2": {
+			"Name": "Wykrycie GeForce Now",
+			"Description": "Ta metoda wykrywa czy gracz używa GeForce Now."
+		},
+		"method_10": {
+			"Name": "Metoda #10",
+			"Description": "Metoda odcisku palca."
+		}
+	},
+	"global_api1": "Prześlij dane banevasion do globalnego API.",
+	"discord_relay_webhook1": "Webhook do przekierowania",
+	"global_api": "Globalne API",
+	"mysql": "MySQL",
+	"fingerprint": "Metoda odcisku palca.",
+	"home": {
+		"Title": "Strona główna",
+		"Total Detections": "Wszystkie wykrycia",
+		"Most common method": "Najbardziej powszechna metoda",
+		"Addon Owner": "Właściciel addona",
+		"Subtitle": "Witaj w Ban Evasion!"
+	},
+	"banevasion": "Ban Evasion",
+	"mysql_error": "[BanEvasion] => Łączenie z bazą MySQL zawiodło.",
+	"ban_reason": "Powód bana",
+	"sidebar": {
+		"Logs": "Logi",
+		"Home": "Strona główna",
+		"Modules": "Moduły",
+		"Settings": "Ustawienia"
+	}
+}
