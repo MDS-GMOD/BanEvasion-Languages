@@ -1,0 +1,165 @@
+{
+    "mysql_closed": "[BanEvasion] => MySQL соединение прервано.",
+    "mysql1": "Загрузка расширенной базы данных.",
+    "badsteamid": "[BanEvasion] => Неверный SteamID",
+    "Modules": {
+        "Title": "Модули",
+        "Subtitle": "Настройка модулей Ban Evasion."
+    },
+    "errors": {
+        "Detection": "Игрок %s наказан при помощи Ban Evading, [Наказание %s]"
+    },
+    "Buttons": {
+        "Kick": "Кик",
+        "Ban": "Бан",
+        "Log Only": "Только лог",
+        "Disabled": "Отключено"
+    },
+    "mysqlwizard": {
+        "disconnect1": "Отключение от базы данных.",
+        "disconnect": "Отключение",
+        "connect1": "Подключение базы данных.",
+        "connect": "Подключение",
+        "password1": "Введите пароль базы данных.",
+        "port1": "Введите порт базы данных.",
+        "password": "Пароль",
+        "database1": "Введите название базы данных.",
+        "host": "Хост",
+        "database": "База данных",
+        "subtitle1": "MySQL",
+        "title": "Мастер базы данных MySQL",
+        "username1": "Введите имя пользователя базы данных.",
+        "host1": "Введите хост базы данных.",
+        "username": "Имя пользователя",
+        "subtitle": "Подключение расширенной базы данных.",
+        "port": "Порт"
+    },
+    "whitelist": {
+        "Title": "Белый список обнаружений",
+        "Remove": "Удалить",
+        "SteamID": "SteamID",
+        "Add": "Добавить",
+        "SteamID1": "Введите SteamID игрока.",
+        "Description": "Белый список игроков защищённых от обнаружений."
+    },
+    "kick_reason": "Причина кика",
+    "menu_command1": "Команда, чтобы открыть меню.",
+    "discord_relay_webhook": "Вебхук для логирования в Discord",
+    "settings": {
+        "Detection Whitelist": "Белый список обнаружений",
+        "Menu Command": "Команда меню",
+        "Global Banlist1": "Загружает все баны, выданные Banevasion, в наш глобальный список!",
+        "Menu Command1": "Команда,открывающая меню.",
+        "MySQL1": "Подключение расширенной базы данных.",
+        "Global API1": "Загружает данные о бане в наш глобальный API.",
+        "MySQL": "MySQL",
+        "Discord Relay": "Discord логирование",
+        "Subtitle": "Настройте Ban Evasion по своему вкусу.",
+        "Ban Reason1": "Укажите причину бана.",
+        "Detection Whitelist1": "Белый список игроков защищённых от обнаружений.",
+        "Global Banlist": "Глобальный банлист",
+        "Kick Reason": "Причина кика",
+        "Ban Reason": "Причина бана",
+        "Discord Relay Webhook1": "Вебхук для логирования обнаружений.",
+        "Discord Relay Webhook": "Вебхук для логирования в Discord",
+        "Kick Reason1": "Укажите причину кика.",
+        "Title": "Настройки",
+        "Global API": "Глобальный API",
+        "Discord Relay1": "Логирование обнаружений в ваш дискорд."
+    },
+    "menu_command": "Команда меню",
+    "ban_reason1": "Укажите причину бана.",
+    "logs": {
+        "Date": "Дата",
+        "search": "Поиск SteamID",
+        "title": "Логи",
+        "Previous": "Прошлая",
+        "Page": "Страница",
+        "steamid": "SteamID",
+        "User": "Пользователь",
+        "Next": "Следующая",
+        "timestamp": "Дата и время",
+        "subtitle": "Отображает логи.",
+        "Actions": "Действия",
+        "CopySid": "Скопировать SteamID64"
+    },
+    "methods": {
+        "method_7": {
+            "Name": "Метод #7",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_4": {
+            "Name": "Метод #4",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_1": {
+            "Name": "Обнаружение VPN/Proxy",
+            "Description": "Этот метод используется для обнаружения VPN или Proxy."
+        },
+        "method_9": {
+            "Name": "Метод #9",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_6": {
+            "Name": "Просмотр IP адресса",
+            "Description": "Автоматическая проверка игроков на соответствие IP-адресов."
+        },
+        "method_3": {
+            "Name": "Метод #3",
+            "Description": "Это метод eprotect"
+        },
+        "method_8": {
+            "Name": "Метод #8",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_5": {
+            "Name": "Метод #5",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_11": {
+            "Name": "Обнаружение Familyshare",
+            "Description": "Это позволяет определить family sharing с забаненным игроком!"
+        }, 
+        "method_12": {
+            "Name": "Метод #12",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_13": {
+            "Name": "Метод #13",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_14": {
+            "Name": "Метод #14",
+            "Description": "Метод дактилоскопии."
+        },
+        "method_2": {
+            "Name": "Обнаружение Geforce Now",
+            "Description": "Метод используется для того, чтобы определить используется ли Geforce Now!"
+        },
+        "method_10": {
+            "Name": "Метод #10",
+            "Description": "Метод дактилоскопии."
+        }
+    },
+    "global_api1": "Загружает данные о бане в наш глобальный API.",
+    "discord_relay_webhook1": "Вебхук для логирования в Discord.",
+    "global_api": "Глобальный API",
+    "mysql": "MySQL",
+    "fingerprint": "Метод дактилоскопии.",
+    "home": {
+        "Title": "Главная",
+        "Total Detections": "Всего обнаружено",
+        "Most common method": "Самый распространенный метод",
+        "Addon Owner": "Владелец аддона",
+        "Subtitle": "Добро пожаловать в Ban Evasion!"
+    },
+    "banevasion": "Ban Evasion",
+    "mysql_error": "[BanEvasion] => MySQL соединение прервано.",
+    "ban_reason": "Причина бана",
+    "sidebar": {
+        "Logs": "Логи",
+        "Home": "Главная",
+        "Modules": "Модули",
+        "Settings": "Настройки"
+    }
+}
