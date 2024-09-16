@@ -1,0 +1,165 @@
+{
+    "mysql_closed": "[BanEvasion] => Connessione MySQL interrotta.",
+    "mysql1": "Connessione a un database esterno.",
+    "badsteamid": "[BanEvasion] => SteamID non valido",
+    "Modules": {
+        "Title": "Moduli",
+        "Subtitle": "Gestisci i moduli di Ban Evasion."
+    },
+    "errors": {
+        "Detection": "Il giocatore %s sta eludendo il ban, [Punizione %s]"
+    },
+    "Buttons": {
+        "Kick": "Espelli",
+        "Ban": "Banna",
+        "Log Only": "Solo Log",
+        "Disabled": "Disabilitato"
+    },
+    "mysqlwizard": {
+        "disconnect1": "Disconnetti dal database.",
+        "disconnect": "Disconnetti",
+        "connect1": "Connetti al database.",
+        "connect": "Connetti",
+        "password1": "Inserisci la password del database.",
+        "port1": "Inserisci la porta del database.",
+        "password": "Password",
+        "database1": "Inserisci il nome del database.",
+        "host": "Host",
+        "database": "Database",
+        "subtitle1": "MySQL",
+        "title": "Procedura guidata del database MySQL",
+        "username1": "Inserisci il nome utente del database.",
+        "host1": "Inserisci l'host del database.",
+        "username": "Nome utente",
+        "subtitle": "Connetti a un database esterno.",
+        "port": "Porta"
+    },
+    "whitelist": {
+        "Title": "Whitelist delle Rilevazioni",
+        "Remove": "Rimuovi",
+        "SteamID": "SteamID",
+        "Add": "Aggiungi",
+        "SteamID1": "Inserisci la SteamID del giocatore.",
+        "Description": "Escludi i giocatori dalle rilevazioni."
+    },
+    "kick_reason": "Motivo dell'Espulsione",
+    "menu_command1": "Il comando per aprire il menu.",
+    "discord_relay_webhook": "Webhook per il Discord Relay",
+    "settings": {
+        "Detection Whitelist": "Whitelist delle Rilevazioni",
+        "Menu Command": "Comando Menu",
+        "Global Banlist1": "Carica tutti i ban effettuati per elusione del ban nella nostra lista globale!",
+        "Menu Command1": "Il comando per aprire il menu.",
+        "MySQL1": "Connetti a un database esterno.",
+        "Global API1": "Carica i dati di Ban Evading nella nostra API globale.",
+        "MySQL": "MySQL",
+        "Discord Relay": "Relay Discord",
+        "Subtitle": "Configura l'elusione del ban secondo le tue preferenze.",
+        "Ban Reason1": "Inserisci il motivo del ban.",
+        "Detection Whitelist1": "Escludi i giocatori dalle rilevazioni.",
+        "Global Banlist": "Lista Ban Globale",
+        "Kick Reason": "Motivo dell'Espulsione",
+        "Ban Reason": "Motivo del Ban",
+        "Discord Relay Webhook1": "Webhook per inoltrare le rilevazioni.",
+        "Discord Relay Webhook": "Webhook per il Discord Relay",
+        "Kick Reason1": "Inserisci il motivo dell'espulsione.",
+        "Title": "Impostazioni",
+        "Global API": "API Globale",
+        "Discord Relay1": "Inoltra le rilevazioni al tuo Discord."
+    },    
+    "menu_command": "Comando Menu",
+    "ban_reason1": "Inserisci il motivo del ban.",
+    "logs": {
+        "Date": "Data",
+        "search": "Cerca SteamID",
+        "title": "Log",
+        "Previous": "Precedente",
+        "Page": "Pagina",
+        "steamid": "SteamID",
+        "User": "Utente",
+        "Next": "Successivo",
+        "timestamp": "Timestamp",
+        "subtitle": "Visualizza i log.",
+        "Actions": "Azioni",
+        "CopySid": "Copia SteamID64"
+    },
+    "methods": {
+        "method_7": {
+            "Name": "Metodo #7",
+            "Description": "Metodo di fingerprinting."
+        },
+        "method_4": {
+            "Name": "Metodo #4",
+            "Description": "Metodo di fingerprinting."
+        },
+        "method_1": {
+            "Name": "Rilevazione VPN/Proxy",
+            "Description": "Questo metodo viene utilizzato per rilevare se un giocatore sta usando una VPN o un Proxy."
+        },
+        "method_9": {
+            "Name": "Metodo #9",
+            "Description": "Un metodo di fingerprinting."
+        },
+        "method_6": {
+            "Name": "Corrispondenza Indirizzo IP",
+            "Description": "Controlla automaticamente i giocatori per indirizzi IP corrispondenti."
+        },
+        "method_3": {
+            "Name": "Metodo #3",
+            "Description": "Questo e' il metodo eprotect."
+        },
+        "method_8": {
+            "Name": "Metodo #8",
+            "Description": "Metodo di fingerprinting."
+        },
+        "method_5": {
+            "Name": "Metodo #5",
+            "Description": "Un metodo di fingerprinting."
+        },
+        "method_11": {
+            "Name": "Rilevazione Familyshare",
+            "Description": "Rileva se qualcuno sta condividendo il gioco con un utente bannato!"
+        },
+        "method_12": {
+            "Name": "Metodo #12",
+            "Description": "Metodo di fingerprinting."
+        },
+        "method_13": {
+            "Name": "Metodo #13",
+            "Description": "Metodo di fingerprinting."
+        },
+        "method_14": {
+            "Name": "Metodo #14",
+            "Description": "Metodo di fingerprinting."
+        },
+        "method_2": {
+            "Name": "Rilevazione Geforce Now",
+            "Description": "Questo metodo viene utilizzato per rilevare se un giocatore sta usando Geforce Now!"
+        },
+        "method_10": {
+            "Name": "Metodo #10",
+            "Description": "Un metodo di fingerprinting."
+        }
+    },
+    "global_api1": "Carica i dati di elusione del ban nella nostra API globale.",
+    "discord_relay_webhook1": "Webhook per inoltrare le rilevazioni.",
+    "global_api": "API Globale",
+    "mysql": "MySQL",
+    "fingerprint": "Metodo di fingerprinting.",
+    "home": {
+        "Title": "Home",
+        "Total Detections": "Rilevazioni Totali",
+        "Most common method": "Metodo piu' comune",
+        "Addon Owner": "Proprietario dell'Addon",
+        "Subtitle": "Benvenuto su Ban Evasion!"
+    },
+    "banevasion": "Elusione del Ban",
+    "mysql_error": "[BanEvasion] => Connessione MySQL fallita.",
+    "ban_reason": "Motivo del Ban",
+    "sidebar": {
+        "Logs": "Log",
+        "Home": "Home",
+        "Modules": "Moduli",
+        "Settings": "Impostazioni"
+    }
+}
