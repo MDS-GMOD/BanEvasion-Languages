@@ -1,0 +1,151 @@
+{
+	"mysql_closed": "[BanEvasion] => Conexión MySQL cerrada.",
+	"mysql1": "Conexión a una base de datos externa.",
+	"badsteamid": "[BanEvasion] => SteamID inválido",
+	"Modules": {
+		"Title": "Módulos",
+		"Subtitle": "Gestionar los módulos de Ban Evasion."
+	},
+	"errors": {
+		"Detection": "El jugador %s está evadiendo un baneo, [Castigo %s]"
+	},
+	"Buttons": {
+		"Kick": "Kick",
+		"Ban": "Ban",
+		"Log Only": "Solo Registrar",
+		"Disabled": "Deshabilitado"
+	},
+	"mysqlwizard": {
+		"disconnect1": "Desconectar de la base de datos.",
+		"disconnect": "Desconectar",
+		"connect1": "Conectar a la base de datos.",
+		"connect": "Conectar",
+		"password1": "Introduce la contraseña de la base de datos.",
+		"port1": "Introduce el puerto de la base de datos.",
+		"password": "Contraseña",
+		"database1": "Introduce el nombre de la base de datos.",
+		"host": "Host",
+		"database": "Base de Datos",
+		"subtitle1": "MySQL",
+		"title": "Asistente de Base de Datos MySQL",
+		"username1": "Introduce el nombre de usuario de la base de datos.",
+		"host1": "Introduce el host de la base de datos.",
+		"username": "Usuario",
+		"subtitle": "Conectar a una base de datos externa.",
+		"port": "Puerto"
+	},
+	"whitelist": {
+		"Title": "Whitelist de Detección",
+		"Remove": "Eliminar",
+		"SteamID": "SteamID",
+		"Add": "Añadir",
+		"SteamID1": "Introduce el SteamID del jugador.",
+		"Description": "Añadir jugadores a la whitelist de detecciones."
+	},
+	"kick_reason": "Razón del Kick",
+	"menu_command1": "El comando para abrir el menú.",
+	"discord_relay_webhook": "Webhook de Relay de Discord",
+	"settings": {
+		"Detection Whitelist": "Whitelist de Detección",
+		"Menu Command": "Comando del Menú",
+		"Global Banlist1": "¡Sube todos los bans realizados por Ban Evasion a nuestra lista global!",
+		"Menu Command1": "El comando para abrir el menú.",
+		"MySQL1": "Conectar a una base de datos externa.",
+		"Global API1": "Sube datos de Ban Evasion a nuestra API global.",
+		"MySQL": "MySQL",
+		"Discord Relay": "Relay de Discord",
+		"Subtitle": "Configura Ban Evasion a tu gusto.",
+		"Ban Reason1": "Introduce la razón del ban.",
+		"Detection Whitelist1": "Añadir jugadores a la whitelist de detecciones.",
+		"Global Banlist": "Lista Global de Baneos",
+		"Kick Reason": "Razón del Kick",
+		"Ban Reason": "Razón del Ban",
+		"Discord Relay Webhook1": "Webhook para enviar las detecciones.",
+		"Discord Relay Webhook": "Webhook de Relay de Discord",
+		"Kick Reason1": "Introduce la razón del kick.",
+		"Title": "Configuraciones",
+		"Global API": "API Global",
+		"Discord Relay1": "Enviar detecciones a tu Discord."
+	},
+	"menu_command": "Comando del Menú",
+	"ban_reason1": "Introduce la razón del ban.",
+	"logs": {
+		"Date": "Fecha",
+		"search": "Buscar SteamID",
+		"title": "Logs",
+		"Previous": "Anterior",
+		"Page": "Página",
+		"steamid": "SteamID",
+		"User": "Usuario",
+		"Next": "Siguiente",
+		"timestamp": "Marca de Tiempo",
+		"subtitle": "Ver logs.",
+		"Actions": "Acciones",
+		"CopySid": "Copiar SteamID64"
+	},
+	"methods": {
+		"method_7": {
+			"Name": "Método #7",
+			"Description": "Método de fingerprinting."
+		},
+		"method_4": {
+			"Name": "Método #4",
+			"Description": "Método de fingerprinting."
+		},
+		"method_1": {
+			"Name": "Detección de VPN/Proxy",
+			"Description": "Este método se utiliza para detectar si un jugador está usando una VPN o Proxy."
+		},
+		"method_9": {
+			"Name": "Método #9",
+			"Description": "Método de fingerprinting."
+		},
+		"method_6": {
+			"Name": "Coincidencia de dirección IP",
+			"Description": "Comprueba automáticamente si los jugadores tienen direcciones IP coincidentes."
+		},
+		"method_3": {
+			"Name": "Método #3",
+			"Description": "Este es el método eprotect."
+		},
+		"method_8": {
+			"Name": "Método #8",
+			"Description": "Método de fingerprinting."
+		},
+		"method_5": {
+			"Name": "Método #5",
+			"Description": "Método de fingerprinting."
+		},
+		"method_11": {
+			"Name": "Detección de Familyshare",
+			"Description": "¡Esto detecta si alguien está compartiendo el juego con un usuario baneado!"
+		},
+		"method_12": {
+			"Name": "Método #12",
+			"Description": "Método de fingerprinting."
+		},
+		"method_13": {
+			"Name": "Método #13",
+			"Description": "Método de fingerprinting."
+		},
+		"method_14": {
+			"Name": "Método #14",
+			"Description": "Método de fingerprinting."
+		},
+		"method_2": {
+			"Name": "Detección de Geforce Now",
+			"Description": "Este método se utiliza para detectar si un jugador está usando Geforce Now."
+		},
+		"method_10": {
+			"Name": "Método #10",
+			"Description": "Método de fingerprinting."
+		}
+	},
+	"global_api1": "Sube datos de Ban Evasion a nuestra API global.",
+	"discord_relay_webhook1": "Webhook para enviar las detecciones.",
+	"global_api": "API Global",
+	"mysql": "MySQL",
+	"fingerprint": "Método de fingerprinting.",
+	
+::contentReference[oaicite:0]{index=0}
+ 
