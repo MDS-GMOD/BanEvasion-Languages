@@ -1,74 +1,74 @@
 {
 	"mysql_closed": "[BanEvasion] => Conexión MySQL cerrada.",
 	"mysql1": "Conexión a una base de datos externa.",
-	"badsteamid": "[BanEvasion] => SteamID inválido",
+	"badsteamid": "[BanEvasion] => SteamID inválida.",
 	"Modules": {
 		"Title": "Módulos",
-		"Subtitle": "Gestionar los módulos de Ban Evasion."
+		"Subtitle": "Gestiona los módulos de Ban Evasion."
 	},
 	"errors": {
-		"Detection": "El jugador %s está evadiendo un baneo, [Castigo %s]"
+		"Detection": "El jugador %s está evadiendo ban, [Castigo %s]"
 	},
 	"Buttons": {
 		"Kick": "Kick",
 		"Ban": "Ban",
-		"Log Only": "Solo Registrar",
-		"Disabled": "Deshabilitado"
+		"Log Only": "Log Only",
+		"Disabled": "Disabled"
 	},
 	"mysqlwizard": {
-		"disconnect1": "Desconectar de la base de datos.",
+		"disconnect1": "Desconéctate de la base de datos.",
 		"disconnect": "Desconectar",
-		"connect1": "Conectar a la base de datos.",
+		"connect1": "Conéctate a la base de datos.",
 		"connect": "Conectar",
 		"password1": "Introduce la contraseña de la base de datos.",
 		"port1": "Introduce el puerto de la base de datos.",
 		"password": "Contraseña",
 		"database1": "Introduce el nombre de la base de datos.",
 		"host": "Host",
-		"database": "Base de Datos",
+		"database": "Base de datos",
 		"subtitle1": "MySQL",
 		"title": "Asistente de Base de Datos MySQL",
 		"username1": "Introduce el nombre de usuario de la base de datos.",
 		"host1": "Introduce el host de la base de datos.",
 		"username": "Usuario",
-		"subtitle": "Conectar a una base de datos externa.",
+		"subtitle": "Conéctate a una base de datos externa.",
 		"port": "Puerto"
 	},
 	"whitelist": {
-		"Title": "Whitelist de Detección",
-		"Remove": "Eliminar",
+		"Title": "Detection Whitelist",
+		"Remove": "Remove",
 		"SteamID": "SteamID",
-		"Add": "Añadir",
-		"SteamID1": "Introduce el SteamID del jugador.",
-		"Description": "Añadir jugadores a la whitelist de detecciones."
+		"Add": "Add",
+		"SteamID1": "Insert the SteamID of the player.",
+		"Description": "Whitelist players from detections."
 	},
-	"kick_reason": "Razón del Kick",
+	"kick_reason": "Motivo de Kick",
 	"menu_command1": "El comando para abrir el menú.",
-	"discord_relay_webhook": "Webhook de Relay de Discord",
+	"discord_relay_webhook": "Discord Relay Webhook",
 	"settings": {
-		"Detection Whitelist": "Whitelist de Detección",
-		"Menu Command": "Comando del Menú",
-		"Global Banlist1": "¡Sube todos los bans realizados por Ban Evasion a nuestra lista global!",
+		"Detection Whitelist": "Detection Whitelist",
+		"Menu Command": "Comando de Menú",
+		"Global Banlist1": "¡Sube todos los baneos realizados por Ban Evasion a nuestra lista global!",
 		"Menu Command1": "El comando para abrir el menú.",
-		"MySQL1": "Conectar a una base de datos externa.",
-		"Global API1": "Sube datos de Ban Evasion a nuestra API global.",
+		"MySQL1": "Conéctate a una base de datos externa.",
+		"Global API1": "¡Sube los datos de Ban Evasion a nuestra API global!",
 		"MySQL": "MySQL",
-		"Discord Relay": "Relay de Discord",
+		"Discord Relay": "Discord Relay",
 		"Subtitle": "Configura Ban Evasion a tu gusto.",
-		"Ban Reason1": "Introduce la razón del ban.",
-		"Detection Whitelist1": "Añadir jugadores a la whitelist de detecciones.",
+		"Ban Reason1": "Introduce el motivo del baneo.",
+		"Detection Whitelist1": "Whitelist players from detections.",
 		"Global Banlist": "Lista Global de Baneos",
-		"Kick Reason": "Razón del Kick",
-		"Ban Reason": "Razón del Ban",
-		"Discord Relay Webhook1": "Webhook para enviar las detecciones.",
-		"Discord Relay Webhook": "Webhook de Relay de Discord",
-		"Kick Reason1": "Introduce la razón del kick.",
-		"Title": "Configuraciones",
-		"Global API": "API Global",
-		"Discord Relay1": "Enviar detecciones a tu Discord."
+		"Kick Reason": "Motivo de Kick",
+		"Ban Reason": "Motivo del Baneo",
+		"Discord Relay Webhook1": "Webhook para reenviar las detecciones.",
+		"Discord Relay Webhook": "Discord Relay Webhook",
+		"Kick Reason1": "Introduce el motivo del kick.",
+		"Title": "Configuración",
+		"Global API": "Global API",
+		"Discord Relay1": "Reenvía las detecciones a tu Discord."
 	},
-	"menu_command": "Comando del Menú",
-	"ban_reason1": "Introduce la razón del ban.",
+	"menu_command": "Comando de Menú",
+	"ban_reason1": "Introduce el motivo del baneo.",
 	"logs": {
 		"Date": "Fecha",
 		"search": "Buscar SteamID",
@@ -78,74 +78,88 @@
 		"steamid": "SteamID",
 		"User": "Usuario",
 		"Next": "Siguiente",
-		"timestamp": "Marca de Tiempo",
+		"timestamp": "Marca de tiempo",
 		"subtitle": "Ver logs.",
 		"Actions": "Acciones",
 		"CopySid": "Copiar SteamID64"
 	},
 	"methods": {
 		"method_7": {
-			"Name": "Método #7",
+			"Name": "Method #7",
 			"Description": "Método de fingerprinting."
 		},
 		"method_4": {
-			"Name": "Método #4",
+			"Name": "Method #4",
 			"Description": "Método de fingerprinting."
 		},
 		"method_1": {
-			"Name": "Detección de VPN/Proxy",
-			"Description": "Este método se utiliza para detectar si un jugador está usando una VPN o Proxy."
+			"Name": "VPN/Proxy Detection",
+			"Description": "Este método se utiliza para detectar si un jugador está usando una VPN o un Proxy."
 		},
 		"method_9": {
-			"Name": "Método #9",
-			"Description": "Método de fingerprinting."
+			"Name": "Method #9",
+			"Description": "Un método de fingerprinting."
 		},
 		"method_6": {
-			"Name": "Coincidencia de dirección IP",
-			"Description": "Comprueba automáticamente si los jugadores tienen direcciones IP coincidentes."
+			"Name": "IP address matching",
+			"Description": "Verifica automáticamente si los jugadores tienen direcciones IP coincidentes."
 		},
 		"method_3": {
-			"Name": "Método #3",
+			"Name": "Method #3",
 			"Description": "Este es el método eprotect."
 		},
 		"method_8": {
-			"Name": "Método #8",
+			"Name": "Method #8",
 			"Description": "Método de fingerprinting."
 		},
 		"method_5": {
-			"Name": "Método #5",
-			"Description": "Método de fingerprinting."
+			"Name": "Method #5",
+			"Description": "Un método de fingerprinting."
 		},
 		"method_11": {
-			"Name": "Detección de Familyshare",
-			"Description": "¡Esto detecta si alguien está compartiendo el juego con un usuario baneado!"
+			"Name": "Familyshare Detection",
+			"Description": "¡Esto detecta si alguien está compartiendo en familia el juego con un usuario baneado!"
 		},
 		"method_12": {
-			"Name": "Método #12",
+			"Name": "Method #12",
 			"Description": "Método de fingerprinting."
 		},
 		"method_13": {
-			"Name": "Método #13",
+			"Name": "Method #13",
 			"Description": "Método de fingerprinting."
 		},
 		"method_14": {
-			"Name": "Método #14",
+			"Name": "Method #14",
 			"Description": "Método de fingerprinting."
 		},
 		"method_2": {
-			"Name": "Detección de Geforce Now",
-			"Description": "Este método se utiliza para detectar si un jugador está usando Geforce Now."
+			"Name": "Geforce Now Detection",
+			"Description": "¡Este método se utiliza para detectar si un jugador está usando Geforce Now!"
 		},
 		"method_10": {
-			"Name": "Método #10",
-			"Description": "Método de fingerprinting."
+			"Name": "Method #10",
+			"Description": "Un método de fingerprinting."
 		}
 	},
-	"global_api1": "Sube datos de Ban Evasion a nuestra API global.",
-	"discord_relay_webhook1": "Webhook para enviar las detecciones.",
-	"global_api": "API Global",
+	"global_api1": "Sube los datos de Ban Evasion a nuestra API global.",
+	"discord_relay_webhook1": "Webhook para reenviar las detecciones.",
+	"global_api": "Global API",
 	"mysql": "MySQL",
 	"fingerprint": "Método de fingerprinting.",
-	
-::contentReference[oaicite:0]{index=0}
- 
+	"home": {
+		"Title": "Inicio",
+		"Total Detections": "Total de Detecciones",
+		"Most common method": "Método más común",
+		"Addon Owner": "Propietario del addon",
+		"Subtitle": "¡Bienvenido a Ban Evasion!"
+	},
+	"banevasion": "Ban Evasion",
+	"mysql_error": "[BanEvasion] => Falló la conexión MySQL.",
+	"ban_reason": "Motivo del Baneo",
+	"sidebar": {
+		"Logs": "Logs",
+		"Home": "Inicio",
+		"Modules": "Módulos",
+		"Settings": "Configuración"
+	}
+}
