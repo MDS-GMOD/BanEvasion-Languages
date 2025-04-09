@@ -85,8 +85,8 @@
 	},
 	"methods": {
 		"method_0": {
-		  "Name": "Деловые / мобильные соединения",
-		  "Description": "Обнаруживает игроков, использующих деловое или мобильное подключение (хотспот)."
+		  "Name": "Conexiones empresariales / hotspot",
+		  "Description": "Detecta a los jugadores que usan una conexión empresarial o un punto de acceso."
 		},
 		"method_7": {
 			"Name": "Method #7",
