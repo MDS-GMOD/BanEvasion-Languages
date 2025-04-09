@@ -87,7 +87,7 @@
 		"method_0": {
 		  "Name": "Connexions d'entreprise / point d'accès",
 		  "Description": "Détecte les joueurs utilisant une connexion d'entreprise ou un point d'accès mobile."
-		}
+		},
 		"method_7": {
 			"Name": "Méthode n°7",
 			"Description": "Méthode d'empreinte digitale."
