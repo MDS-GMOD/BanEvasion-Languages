@@ -84,6 +84,10 @@
 		"CopySid": "SteamID64 kopieren"
 	},
 	"methods": {
+		"method_0": {
+		  "Name": "Geschäfts- / Hotspot-Verbindungen",
+		  "Description": "Erkennt Spieler, die eine Geschäfts- oder Hotspot-Verbindung verwenden."
+		},
 		"method_7": {
 			"Name": "Methode #7",
 			"Description": "Fingerabdruck-Methode."
