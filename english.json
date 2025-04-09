@@ -84,6 +84,10 @@
 		"CopySid": "Copy SteamID64"
 	},
 	"methods": {
+		"method_0": {
+			"Name": "Buisness / Hotspot Connections",
+			"Description": "Detects players using a buisness / hotspot connection."
+		},
 		"method_7": {
 			"Name": "Method #7",
 			"Description": "Fingerprinting method."
