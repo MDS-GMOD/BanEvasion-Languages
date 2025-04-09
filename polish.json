@@ -84,6 +84,10 @@
 		"CopySid": "Skopiuj SteamID64"
 	},
 	"methods": {
+		"method_0": {
+		  "Name": "Połączenia biznesowe / hotspot",
+		  "Description": "Wykrywa graczy korzystających z połączenia biznesowego lub hotspotu."
+		},
 		"method_7": {
 			"Name": "Metoda #7",
 			"Description": "Metoda odcisku palca."
