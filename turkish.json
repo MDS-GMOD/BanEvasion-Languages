@@ -84,6 +84,10 @@
 		"CopySid": "SteamID64'ü Kopyala"
 	},
 	"methods": {
+		"method_0": {
+		  "Name": "İş / hotspot bağlantıları",
+		  "Description": "İş veya hotspot bağlantısı kullanan oyuncuları tespit eder."
+		},
 		"method_7": {
 			"Name": "Yöntem #7",
 			"Description": "Parmak izi yöntemi."
