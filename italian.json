@@ -84,6 +84,10 @@
         "CopySid": "Copia SteamID64"
     },
     "methods": {
+        "method_0": {
+          "Name": "Connessioni aziendali / hotspot",
+          "Description": "Rileva i giocatori che utilizzano una connessione aziendale o hotspot."
+        },
         "method_7": {
             "Name": "Metodo #7",
             "Description": "Metodo di fingerprinting."
