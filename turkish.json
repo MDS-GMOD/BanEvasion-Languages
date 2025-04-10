@@ -46,6 +46,10 @@
 	"menu_command1": "Menüyü açma komutu.",
 	"discord_relay_webhook": "Discord Aktarım Webhook'u",
 	"settings": {
+		"Alert on players with linked alts": "Bağlantılı yedek hesapları olan oyuncular için uyarı",
+		"Alert on players with linked alts1": "Etkinleştirilirse, yedek hesaplara sahip bir oyuncu katıldığında yöneticilere bildirim gönderilir, hatta bu hesaplar yasaklı olmasa bile.",
+		"Ban players with any linked alts": "Bağlantılı herhangi bir yedek hesaba sahip oyuncuları yasakla",
+		"Ban players with any linked alts1": "Etkinleştirilirse, bağlantılı yedek hesaplar yasaklı olmasa bile oyuncular yasaklanır. Sadece yasaklı yedek hesaplar varsa yasaklamak için devre dışı bırakın.",
 		"Detection Whitelist": "Tespit Beyaz Listesi",
 		"Menu Command": "Menü Komutu",
 		"Global Banlist1": "Ban evasion tarafından yapılan tüm yasakları global listemize yükleyin!",
