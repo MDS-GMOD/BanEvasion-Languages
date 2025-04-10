@@ -48,7 +48,7 @@
 	"settings": {
 		"Alert on players with linked alts": "Alert on players with linked alts",
 		"Alert on players with linked alts1": "If enabled, players will be banned even if their linked alternate accounts are not banned. Disable to only ban players with banned alts.",
-		"Ban players with any linked alts": "Alert on players with linked alts",
+		"Ban players with any linked alts": "Ban players with linked alts",
 		"Ban players with any linked alts1": "If enabled, players will be banned even if their linked alternate accounts are not banned. Disable to only ban players with banned alts.",
 
 		"Detection Whitelist": "Detection Whitelist",
