@@ -46,6 +46,10 @@
 	"menu_command1": "Der Befehl zum Öffnen des Menüs.",
 	"discord_relay_webhook": "Discord Relay Webhook",
 	"settings": {
+		"Alert on players with linked alts": "Warnung bei Spielern mit verknüpften Alternativkonten",
+		"Alert on players with linked alts1": "Wenn aktiviert, werden Admins benachrichtigt, wenn ein Spieler mit verknüpften Alternativkonten beitritt, auch wenn diese nicht gebannt sind.",
+		"Ban players with any linked alts": "Spieler mit beliebigen verknüpften Alts bannen",
+		"Ban players with any linked alts1": "Wenn aktiviert, werden Spieler gebannt, auch wenn ihre verknüpften Alts nicht gebannt sind. Deaktivieren, um nur Spieler mit gebannten Alts zu bannen.",
 		"Detection Whitelist": "Whitelist",
 		"Menu Command": "Command",
 		"Global Banlist1": "Lädt alle von BanEvasion durchgeführten Bans in unsere globale Liste hoch!",
