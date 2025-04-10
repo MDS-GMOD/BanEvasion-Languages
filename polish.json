@@ -46,6 +46,10 @@
 	"menu_command1": "Komenda do otwarcia Menu.",
 	"discord_relay_webhook": "Discord Relay Webhook",
 	"settings": {
+		"Alert on players with linked alts": "Powiadom o graczach z powiązanymi altami",
+		"Alert on players with linked alts1": "Jeśli włączone, administracja zostanie powiadomiona, gdy gracz z powiązanymi altami dołączy, nawet jeśli nie są one zbanowane.",
+		"Ban players with any linked alts": "Banuj graczy z dowolnymi powiązanymi altami",
+		"Ban players with any linked alts1": "Jeśli włączone, gracz zostanie zbanowany nawet jeśli jego alty nie są zbanowane. Wyłącz, aby banować tylko przy zbanowanych altach.",
 		"Detection Whitelist": "Whitelista wykryć",
 		"Menu Command": "Komenda Menu",
 		"Global Banlist1": "Prześlij wszystkie bany dokonane przez banevasion do globalnej listy banów!",
