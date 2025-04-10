@@ -46,6 +46,10 @@
     "menu_command1": "Il comando per aprire il menu.",
     "discord_relay_webhook": "Webhook per il Discord Relay",
     "settings": {
+        "Alert on players with linked alts": "Avviso per i giocatori con account alternativi collegati",
+        "Alert on players with linked alts1": "Se abilitato, lo staff verrà avvisato quando un giocatore con account alternativi si connette, anche se tali account non sono bannati.",
+        "Ban players with any linked alts": "Banna i giocatori con qualsiasi account alternativo collegato",
+        "Ban players with any linked alts1": "Se abilitato, i giocatori verranno bannati anche se i loro account alternativi collegati non sono bannati. Disabilita per bannare solo quelli con account alternativi bannati.",
         "Detection Whitelist": "Whitelist delle Rilevazioni",
         "Menu Command": "Comando Menu",
         "Global Banlist1": "Carica tutti i ban effettuati per elusione del ban nella nostra lista globale!",
